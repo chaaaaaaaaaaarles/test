@@ -1,0 +1,12 @@
+com.jrai.flutter_keyboard_visibility-core-1.6.0-0 C:\Users\user\.gradle\caches\transforms-3\2202a4255f14d85abc4c9ae5b521db27\transformed\core-1.6.0\res
+com.jrai.flutter_keyboard_visibility-jetified-window-1.0.0-beta04-1 C:\Users\user\.gradle\caches\transforms-3\6bf16a9a1bf88888178be5509115a66b\transformed\jetified-window-1.0.0-beta04\res
+com.jrai.flutter_keyboard_visibility-jetified-annotation-experimental-1.1.0-2 C:\Users\user\.gradle\caches\transforms-3\786f4468ed54fc4e0abb3ec36e09273b\transformed\jetified-annotation-experimental-1.1.0\res
+com.jrai.flutter_keyboard_visibility-jetified-window-java-1.0.0-beta04-3 C:\Users\user\.gradle\caches\transforms-3\e0e0bcac966be8edef1ac1fab2bdc085\transformed\jetified-window-java-1.0.0-beta04\res
+com.jrai.flutter_keyboard_visibility-main-4 C:\Users\user\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_keyboard_visibility-5.4.0\android\src\main\res
+com.jrai.flutter_keyboard_visibility-release-5 C:\Users\user\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_keyboard_visibility-5.4.0\android\src\release\res
+com.jrai.flutter_keyboard_visibility-pngs-6 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_keyboard_visibility\generated\res\pngs\release
+com.jrai.flutter_keyboard_visibility-resValues-7 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_keyboard_visibility\generated\res\resValues\release
+com.jrai.flutter_keyboard_visibility-rs-8 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_keyboard_visibility\generated\res\rs\release
+com.jrai.flutter_keyboard_visibility-mergeReleaseResources-9 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_keyboard_visibility\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.jrai.flutter_keyboard_visibility-mergeReleaseResources-10 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_keyboard_visibility\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.jrai.flutter_keyboard_visibility-merged_res-11 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_keyboard_visibility\intermediates\merged_res\release

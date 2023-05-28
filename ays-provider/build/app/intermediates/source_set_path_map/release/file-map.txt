@@ -1,0 +1,122 @@
+com.iqonic.provider.app-jetified-ui-text-1.3.3-0 C:\Users\user\.gradle\caches\transforms-3\0000d79812f47de66489ff0f8ee5647a\transformed\jetified-ui-text-1.3.3\res
+com.iqonic.provider.app-jetified-payments-ui-core-20.19.5-1 C:\Users\user\.gradle\caches\transforms-3\091e8c2351ceb146a967dbeb86b22c9e\transformed\jetified-payments-ui-core-20.19.5\res
+com.iqonic.provider.app-jetified-core-ktx-1.9.0-2 C:\Users\user\.gradle\caches\transforms-3\0b8b657148390aaf80053bcb97f4f534\transformed\jetified-core-ktx-1.9.0\res
+com.iqonic.provider.app-jetified-runtime-livedata-1.3.3-3 C:\Users\user\.gradle\caches\transforms-3\0fd85e1b4fe85bf2d09547219ec47011\transformed\jetified-runtime-livedata-1.3.3\res
+com.iqonic.provider.app-jetified-foundation-layout-1.3.1-4 C:\Users\user\.gradle\caches\transforms-3\1310b2573a8058d06f6900add3b3a6b4\transformed\jetified-foundation-layout-1.3.1\res
+com.iqonic.provider.app-material-1.8.0-5 C:\Users\user\.gradle\caches\transforms-3\14b73dd0e31f9fcb5fcd66ab7b712b42\transformed\material-1.8.0\res
+com.iqonic.provider.app-jetified-viewpager2-1.0.0-6 C:\Users\user\.gradle\caches\transforms-3\19ee3372affb5212ec83109bf2a6f12b\transformed\jetified-viewpager2-1.0.0\res
+com.iqonic.provider.app-jetified-ui-tooling-preview-1.3.3-7 C:\Users\user\.gradle\caches\transforms-3\1c4708eeeaca200398b4f32f9c2e3c84\transformed\jetified-ui-tooling-preview-1.3.3\res
+com.iqonic.provider.app-jetified-payments-model-20.19.5-8 C:\Users\user\.gradle\caches\transforms-3\1d814ee856f85344d32cf580cd808c1f\transformed\jetified-payments-model-20.19.5\res
+com.iqonic.provider.app-jetified-play-services-wallet-19.1.0-9 C:\Users\user\.gradle\caches\transforms-3\1f848a7665d9e8a1a57b30c8f1ff6e56\transformed\jetified-play-services-wallet-19.1.0\res
+com.iqonic.provider.app-jetified-play-services-auth-17.0.0-10 C:\Users\user\.gradle\caches\transforms-3\1fae54ec1d0af6c38413c698d18f62bd\transformed\jetified-play-services-auth-17.0.0\res
+com.iqonic.provider.app-jetified-checkout-1.6.30-11 C:\Users\user\.gradle\caches\transforms-3\233768135bb4f1c576230bf709f20b4f\transformed\jetified-checkout-1.6.30\res
+com.iqonic.provider.app-jetified-savedstate-1.2.0-12 C:\Users\user\.gradle\caches\transforms-3\25f7c8b116fa854d30829a2664094f6a\transformed\jetified-savedstate-1.2.0\res
+com.iqonic.provider.app-lifecycle-viewmodel-2.5.1-13 C:\Users\user\.gradle\caches\transforms-3\2b1e39fbef9883bfd33f19450160d8e3\transformed\lifecycle-viewmodel-2.5.1\res
+com.iqonic.provider.app-webkit-1.5.0-14 C:\Users\user\.gradle\caches\transforms-3\2c6c6e402ceb11ea8e9d62fd27b05974\transformed\webkit-1.5.0\res
+com.iqonic.provider.app-navigation-runtime-ktx-2.5.3-15 C:\Users\user\.gradle\caches\transforms-3\2e33f5223a7be3e796eeae36930bd128\transformed\navigation-runtime-ktx-2.5.3\res
+com.iqonic.provider.app-recyclerview-1.2.1-16 C:\Users\user\.gradle\caches\transforms-3\2f4f0680d2f345b5765ea3d4132cbe7b\transformed\recyclerview-1.2.1\res
+com.iqonic.provider.app-jetified-stripe-ui-core-20.19.5-17 C:\Users\user\.gradle\caches\transforms-3\2fd785f6cdff8629614d035a95920728\transformed\jetified-stripe-ui-core-20.19.5\res
+com.iqonic.provider.app-jetified-lifecycle-viewmodel-ktx-2.5.1-18 C:\Users\user\.gradle\caches\transforms-3\30435237f8b75cb3b98e0bd4643ac284\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\res
+com.iqonic.provider.app-transition-1.2.0-19 C:\Users\user\.gradle\caches\transforms-3\306add370d550813b2ac539b6e1c8743\transformed\transition-1.2.0\res
+com.iqonic.provider.app-jetified-ui-unit-1.3.3-20 C:\Users\user\.gradle\caches\transforms-3\35f6df51c2165ddd0d812a0ffb50b56e\transformed\jetified-ui-unit-1.3.3\res
+com.iqonic.provider.app-jetified-firebase-common-20.3.2-21 C:\Users\user\.gradle\caches\transforms-3\36a7ae981e7996c2c6cfaf000a2e1a59\transformed\jetified-firebase-common-20.3.2\res
+com.iqonic.provider.app-jetified-fragment-ktx-1.5.5-22 C:\Users\user\.gradle\caches\transforms-3\3dc335d1831baa7add8f960aaf717af7\transformed\jetified-fragment-ktx-1.5.5\res
+com.iqonic.provider.app-jetified-savedstate-ktx-1.2.0-23 C:\Users\user\.gradle\caches\transforms-3\48f9e9c00afad146637d4f795309ee94\transformed\jetified-savedstate-ktx-1.2.0\res
+com.iqonic.provider.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-24 C:\Users\user\.gradle\caches\transforms-3\4a47b6ec003ff543a3be56c1707bfa53\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.iqonic.provider.app-jetified-glide-4.12.0-25 C:\Users\user\.gradle\caches\transforms-3\4a6bb16c9fe044f89a316ec8ccea5dac\transformed\jetified-glide-4.12.0\res
+com.iqonic.provider.app-lifecycle-runtime-2.5.1-26 C:\Users\user\.gradle\caches\transforms-3\4aa7ec185383ea72713c3bb135b89f79\transformed\lifecycle-runtime-2.5.1\res
+com.iqonic.provider.app-jetified-play-services-base-18.0.1-27 C:\Users\user\.gradle\caches\transforms-3\4eedddc021e56e4b1e20bca98a672bd1\transformed\jetified-play-services-base-18.0.1\res
+com.iqonic.provider.app-jetified-play-services-maps-18.0.2-28 C:\Users\user\.gradle\caches\transforms-3\5172b96ebc2abc49a71c486cbf915412\transformed\jetified-play-services-maps-18.0.2\res
+com.iqonic.provider.app-jetified-runtime-1.3.3-29 C:\Users\user\.gradle\caches\transforms-3\517f2be025eb149255d3aa7c02368fb6\transformed\jetified-runtime-1.3.3\res
+com.iqonic.provider.app-jetified-material-icons-core-1.3.1-30 C:\Users\user\.gradle\caches\transforms-3\527f2832cb2b841ab48dba8ae975aa44\transformed\jetified-material-icons-core-1.3.1\res
+com.iqonic.provider.app-jetified-foundation-1.3.1-31 C:\Users\user\.gradle\caches\transforms-3\54def54503f52bb072a42a35ba73b8b0\transformed\jetified-foundation-1.3.1\res
+com.iqonic.provider.app-coordinatorlayout-1.1.0-32 C:\Users\user\.gradle\caches\transforms-3\5940c2dc4e189670428d1654da214326\transformed\coordinatorlayout-1.1.0\res
+com.iqonic.provider.app-jetified-activity-1.6.1-33 C:\Users\user\.gradle\caches\transforms-3\6012d5c2d23a53bb2d43855a4fa21092\transformed\jetified-activity-1.6.1\res
+com.iqonic.provider.app-navigation-common-ktx-2.5.3-34 C:\Users\user\.gradle\caches\transforms-3\613cf80ffc80b50ee65cc5b9d63046aa\transformed\navigation-common-ktx-2.5.3\res
+com.iqonic.provider.app-lifecycle-livedata-2.5.1-35 C:\Users\user\.gradle\caches\transforms-3\639ef12d751316f5e7501ec037f3f0b5\transformed\lifecycle-livedata-2.5.1\res
+com.iqonic.provider.app-jetified-customview-poolingcontainer-1.0.0-36 C:\Users\user\.gradle\caches\transforms-3\641e2a87dce6aa3c841ab78b16f928b4\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.iqonic.provider.app-jetified-lifecycle-runtime-ktx-2.5.1-37 C:\Users\user\.gradle\caches\transforms-3\69186435cca6caaede50ef8392005879\transformed\jetified-lifecycle-runtime-ktx-2.5.1\res
+com.iqonic.provider.app-jetified-window-1.0.0-beta04-38 C:\Users\user\.gradle\caches\transforms-3\6bf16a9a1bf88888178be5509115a66b\transformed\jetified-window-1.0.0-beta04\res
+com.iqonic.provider.app-jetified-ui-viewbinding-1.3.3-39 C:\Users\user\.gradle\caches\transforms-3\6ef660c6a79091b005ee186f04877c68\transformed\jetified-ui-viewbinding-1.3.3\res
+com.iqonic.provider.app-jetified-animation-core-1.3.1-40 C:\Users\user\.gradle\caches\transforms-3\71acca245410ea68f5283d3600d5391c\transformed\jetified-animation-core-1.3.1\res
+com.iqonic.provider.app-drawerlayout-1.1.1-41 C:\Users\user\.gradle\caches\transforms-3\73fe509a539391d34863ed39c1c11c20\transformed\drawerlayout-1.1.1\res
+com.iqonic.provider.app-fragment-1.5.5-42 C:\Users\user\.gradle\caches\transforms-3\78b4cc1b0338eb97fdab05c9145beafe\transformed\fragment-1.5.5\res
+com.iqonic.provider.app-jetified-security-crypto-1.1.0-alpha05-43 C:\Users\user\.gradle\caches\transforms-3\7a7edf12211a379f547cf9d53433350b\transformed\jetified-security-crypto-1.1.0-alpha05\res
+com.iqonic.provider.app-jetified-profileinstaller-1.2.0-44 C:\Users\user\.gradle\caches\transforms-3\808f9f0b637ae9ae850568759e40bcda\transformed\jetified-profileinstaller-1.2.0\res
+com.iqonic.provider.app-appcompat-1.6.1-45 C:\Users\user\.gradle\caches\transforms-3\826651932c99882cca2a959c7704f1e2\transformed\appcompat-1.6.1\res
+com.iqonic.provider.app-jetified-runtime-saveable-1.3.3-46 C:\Users\user\.gradle\caches\transforms-3\8459f8c400630256941a9e132879b65d\transformed\jetified-runtime-saveable-1.3.3\res
+com.iqonic.provider.app-jetified-stripe-core-20.19.5-47 C:\Users\user\.gradle\caches\transforms-3\8a2405d684fc6de161a833abfa66db05\transformed\jetified-stripe-core-20.19.5\res
+com.iqonic.provider.app-jetified-financial-connections-20.19.5-48 C:\Users\user\.gradle\caches\transforms-3\8b5ce495eb9d2a4e4799de2de065e6bb\transformed\jetified-financial-connections-20.19.5\res
+com.iqonic.provider.app-jetified-appcompat-resources-1.6.1-49 C:\Users\user\.gradle\caches\transforms-3\8bc51f248072fc43ce3d8aff2305215e\transformed\jetified-appcompat-resources-1.6.1\res
+com.iqonic.provider.app-jetified-lifecycle-livedata-core-ktx-2.5.1-50 C:\Users\user\.gradle\caches\transforms-3\8ca05b5748d4a6a146888788477ed5e7\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\res
+com.iqonic.provider.app-jetified-lifecycle-process-2.4.1-51 C:\Users\user\.gradle\caches\transforms-3\941a5d2ce6379180784ee201d83de0ad\transformed\jetified-lifecycle-process-2.4.1\res
+com.iqonic.provider.app-lifecycle-livedata-core-2.5.1-52 C:\Users\user\.gradle\caches\transforms-3\99f724d5e0bbfb13788102ee7828da7f\transformed\lifecycle-livedata-core-2.5.1\res
+com.iqonic.provider.app-jetified-lifecycle-viewmodel-compose-2.5.1-53 C:\Users\user\.gradle\caches\transforms-3\9a2198ce5e5048391c7993470a28d7fc\transformed\jetified-lifecycle-viewmodel-compose-2.5.1\res
+com.iqonic.provider.app-navigation-runtime-2.5.3-54 C:\Users\user\.gradle\caches\transforms-3\9fd2bf4832a2d0cd6a959147886f3305\transformed\navigation-runtime-2.5.3\res
+com.iqonic.provider.app-jetified-paymentsheet-20.19.5-55 C:\Users\user\.gradle\caches\transforms-3\a2bee43ff17a17a91d83bae4831b3dfc\transformed\jetified-paymentsheet-20.19.5\res
+com.iqonic.provider.app-jetified-navigation-compose-2.5.3-56 C:\Users\user\.gradle\caches\transforms-3\aaff09ecc7720c6504bd6facf8b321de\transformed\jetified-navigation-compose-2.5.3\res
+com.iqonic.provider.app-jetified-firebase-messaging-23.1.2-57 C:\Users\user\.gradle\caches\transforms-3\ac7b47ac87145a58e07cddb37c3df34e\transformed\jetified-firebase-messaging-23.1.2\res
+com.iqonic.provider.app-cardview-1.0.0-58 C:\Users\user\.gradle\caches\transforms-3\acf293d5c74bd1705cb02c206a006e4f\transformed\cardview-1.0.0\res
+com.iqonic.provider.app-jetified-animation-1.3.1-59 C:\Users\user\.gradle\caches\transforms-3\ae3864d2b4af326261da0b68b8426bb0\transformed\jetified-animation-1.3.1\res
+com.iqonic.provider.app-browser-1.5.0-60 C:\Users\user\.gradle\caches\transforms-3\b0419104b49223753f20da3c2fb04dcd\transformed\browser-1.5.0\res
+com.iqonic.provider.app-jetified-link-20.19.5-61 C:\Users\user\.gradle\caches\transforms-3\b86573d19ed9331ad7b7751b6093d7de\transformed\jetified-link-20.19.5\res
+com.iqonic.provider.app-jetified-startup-runtime-1.1.1-62 C:\Users\user\.gradle\caches\transforms-3\bbed8a5d85a9ca6c5e501705746ab514\transformed\jetified-startup-runtime-1.1.1\res
+com.iqonic.provider.app-jetified-ui-util-1.3.3-63 C:\Users\user\.gradle\caches\transforms-3\c065a2175f705aa90cf1090a84a1f3a7\transformed\jetified-ui-util-1.3.3\res
+com.iqonic.provider.app-jetified-material-ripple-1.3.1-64 C:\Users\user\.gradle\caches\transforms-3\c0fb5ea85eea27af6088e86638c64471\transformed\jetified-material-ripple-1.3.1\res
+com.iqonic.provider.app-media-1.0.0-65 C:\Users\user\.gradle\caches\transforms-3\c686dabacaf4c2fcfb89e2d655521041\transformed\media-1.0.0\res
+com.iqonic.provider.app-jetified-material-1.3.1-66 C:\Users\user\.gradle\caches\transforms-3\c7070ee62de12ff4b07c742a8d633c66\transformed\jetified-material-1.3.1\res
+com.iqonic.provider.app-work-runtime-2.7.1-67 C:\Users\user\.gradle\caches\transforms-3\c956439a7a9637a931d6d656ec002395\transformed\work-runtime-2.7.1\res
+com.iqonic.provider.app-jetified-activity-compose-1.6.1-68 C:\Users\user\.gradle\caches\transforms-3\cc41494edc18b2fa9fb979e81a46ba17\transformed\jetified-activity-compose-1.6.1\res
+com.iqonic.provider.app-jetified-emoji2-1.2.0-69 C:\Users\user\.gradle\caches\transforms-3\cfe8cff1a54ae2460336e0160d6ae333\transformed\jetified-emoji2-1.2.0\res
+com.iqonic.provider.app-jetified-annotation-experimental-1.3.0-70 C:\Users\user\.gradle\caches\transforms-3\d6137db588619c54e6061bb515a89a8f\transformed\jetified-annotation-experimental-1.3.0\res
+com.iqonic.provider.app-core-1.9.0-71 C:\Users\user\.gradle\caches\transforms-3\d688635dc74502bacdab3168dc7870fa\transformed\core-1.9.0\res
+com.iqonic.provider.app-jetified-ui-graphics-1.3.3-72 C:\Users\user\.gradle\caches\transforms-3\d88f4e660fc1c77f1a25bc2afa23f9b1\transformed\jetified-ui-graphics-1.3.3\res
+com.iqonic.provider.app-jetified-OneSignal-4.8.2-73 C:\Users\user\.gradle\caches\transforms-3\d9c606d5e3ae93fc854aa3cf569be264\transformed\jetified-OneSignal-4.8.2\res
+com.iqonic.provider.app-navigation-common-2.5.3-74 C:\Users\user\.gradle\caches\transforms-3\da01614bc7cfd35078adfbf5c50f1605\transformed\navigation-common-2.5.3\res
+com.iqonic.provider.app-jetified-window-java-1.0.0-beta04-75 C:\Users\user\.gradle\caches\transforms-3\e0e0bcac966be8edef1ac1fab2bdc085\transformed\jetified-window-java-1.0.0-beta04\res
+com.iqonic.provider.app-jetified-ui-geometry-1.3.3-76 C:\Users\user\.gradle\caches\transforms-3\e4d4b297724a3a6ba83d146204f65357\transformed\jetified-ui-geometry-1.3.3\res
+com.iqonic.provider.app-jetified-activity-ktx-1.6.1-77 C:\Users\user\.gradle\caches\transforms-3\e88e3dd97b3d45421a0e86e168a67ccf\transformed\jetified-activity-ktx-1.6.1\res
+com.iqonic.provider.app-jetified-emoji2-views-helper-1.2.0-78 C:\Users\user\.gradle\caches\transforms-3\eff8e253bdbe8a103fc2cc64e8273157\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.iqonic.provider.app-constraintlayout-2.1.4-79 C:\Users\user\.gradle\caches\transforms-3\f018b3ac6bb42531c0210cae16a001af\transformed\constraintlayout-2.1.4\res
+com.iqonic.provider.app-jetified-play-services-basement-18.1.0-80 C:\Users\user\.gradle\caches\transforms-3\f0f36d3db4e9bbb3e36f274da5d122cf\transformed\jetified-play-services-basement-18.1.0\res
+com.iqonic.provider.app-jetified-lifecycle-livedata-ktx-2.5.1-81 C:\Users\user\.gradle\caches\transforms-3\f235470217017a375c7469d1e6f609b5\transformed\jetified-lifecycle-livedata-ktx-2.5.1\res
+com.iqonic.provider.app-swiperefreshlayout-1.1.0-82 C:\Users\user\.gradle\caches\transforms-3\f4522514ad8aaf797f26abd7308d654b\transformed\swiperefreshlayout-1.1.0\res
+com.iqonic.provider.app-jetified-ui-1.3.3-83 C:\Users\user\.gradle\caches\transforms-3\f6cf1a25b9bbc473f7a469e652cae113\transformed\jetified-ui-1.3.3\res
+com.iqonic.provider.app-jetified-stripe-3ds2-android-6.1.7-84 C:\Users\user\.gradle\caches\transforms-3\f895aeb7eeee70f6961e9a18cba00015\transformed\jetified-stripe-3ds2-android-6.1.7\res
+com.iqonic.provider.app-jetified-payments-core-20.19.5-85 C:\Users\user\.gradle\caches\transforms-3\fb38d4e032195b8e315f86bb126c25ba\transformed\jetified-payments-core-20.19.5\res
+com.iqonic.provider.app-google-services-86 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\android\app\build\generated\res\google-services\release
+com.iqonic.provider.app-pngs-87 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\android\app\build\generated\res\pngs\release
+com.iqonic.provider.app-resValues-88 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\android\app\build\generated\res\resValues\release
+com.iqonic.provider.app-rs-89 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\android\app\build\generated\res\rs\release
+com.iqonic.provider.app-main-90 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\android\app\src\main\res
+com.iqonic.provider.app-release-91 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\android\app\src\release\res
+com.iqonic.provider.app-packaged_res-92 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\android_intent_plus\intermediates\packaged_res\release
+com.iqonic.provider.app-mergeReleaseResources-93 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.iqonic.provider.app-mergeReleaseResources-94 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.iqonic.provider.app-merged_res-95 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\app\intermediates\merged_res\release
+com.iqonic.provider.app-packaged_res-96 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\cloud_firestore\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-97 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\connectivity_plus\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-98 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\file_picker\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-99 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\firebase_auth\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-100 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\firebase_core\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-101 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\firebase_crashlytics\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-102 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\firebase_database\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-103 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\firebase_remote_config\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-104 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\firebase_storage\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-105 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_custom_tabs\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-106 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_inappwebview\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-107 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_keyboard_visibility\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-108 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-109 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\fluttertoast\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-110 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\geocoding_android\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-111 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\image_picker_android\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-112 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\nb_utils\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-113 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\onesignal_flutter\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-114 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\package_info_plus\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-115 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\path_provider_android\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-116 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\razorpay_flutter\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-117 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\shared_preferences_android\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-118 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\sqflite\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-119 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\stripe_android\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-120 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\url_launcher_android\intermediates\packaged_res\release
+com.iqonic.provider.app-packaged_res-121 C:\Users\user\Downloads\mobile app\handyman_user_code_zip_v52\mobile app\build\webview_flutter_android\intermediates\packaged_res\release
